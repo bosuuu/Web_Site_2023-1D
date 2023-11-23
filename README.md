@@ -1,4 +1,6 @@
-O Muay Thai é uma luta marcial tailandesa, conhecida como a “luta das 8 armas”. Essas armas são as partes do corpo utilizadas nos golpes: dois cotovelos, dois punhos, dois joelhos e a combinação das duas canelas e dos dois pés.
+       <h2>MUAY THAI <h2>
+
+<p>O Muay Thai é uma luta marcial tailandesa, conhecida como a “luta das 8 armas”. Essas armas são as partes do corpo utilizadas nos golpes: dois cotovelos, dois punhos, dois joelhos e a combinação das duas canelas e dos dois pés.
 
 Também chamado de thai boxe ou boxe tailandês, o Muay Thai utiliza socos, cotoveladas, joelhadas, chutes e técnicas de esquiva e proteção.
 
@@ -34,7 +36,7 @@ Nai Khanom Tom foi desafiado a lutar contra os birmaneses e, com desempenho magn
 
 Outro nome importante do Muay Thai foi o rei Pra Chao Sua, que governou no início do século XVIII. Ele era um entusiasta da luta e um exímio lutador.
 
-Por volta dos anos 1930 foram definidas regras para o Muay Thai, que começou a se popularizar não somente na Tailândia, mas no mundo todo.
+Por volta dos anos 1930 foram definidas regras para o Muay Thai, que começou a se popularizar não somente na Tailândia, mas no mundo todo.<p>
 
 
 
