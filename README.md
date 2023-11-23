@@ -1,8 +1,7 @@
-       <h2>MUAY THAI <h2>
-
+       <h2>MUAY THAI<h2>
 <p>O Muay Thai é uma luta marcial tailandesa, conhecida como a “luta das 8 armas”. Essas armas são as partes do corpo utilizadas nos golpes: dois cotovelos, dois punhos, dois joelhos e a combinação das duas canelas e dos dois pés.
 
-Também chamado de thai boxe ou boxe tailandês, o Muay Thai utiliza socos, cotoveladas, joelhadas, chutes e técnicas de esquiva e proteção.
+Também chamado de thai boxe ou boxe tailandês, o Muay Thai utiliza socos, cotoveladas, joelhadas, chutes e técnicas de esquiva e proteção.<p>
 
 O Muay Thai surge como uma técnica de defesa e de guerra, desenvolvida pelos tailandeses para sua proteção e para a defesa do seu território contra os inimigos.
 
@@ -26,7 +25,7 @@ Graduação do Muay Thai Originalmente os lutadores do boxe tailandês não são
 
 Branca; Branca ponta vermelha; Vermelha; Vermelha ponta azul clara; Azul clara; Azul clara ponta azul escura; Azul escura (instrutor); Azul escura ponta preta (instrutor master); Preta (professor); Preta e branca (Mestre); e Preta, branca e vermelha (Grão Mestre).
 
-História do Muay Thai Ao longo de sua história, a Tailândia sofreu inúmeros ataques e invasões de inimigos. Para lutar contra essas investidas, os tailandeses começaram a desenvolver técnicas de luta que dariam origem ao Muay Thai.
+<p>História do Muay Thai Ao longo de sua história, a Tailândia sofreu inúmeros ataques e invasões de inimigos. Para lutar contra essas investidas, os tailandeses começaram a desenvolver técnicas de luta que dariam origem ao Muay Thai.
 
 O Muay Thai era praticado pelo exército e os lutadores obtinham reconhecimento social por dominar a técnica. Os reis tailandeses incentivavam e até mesmo, praticavam a arte marcial.
 
